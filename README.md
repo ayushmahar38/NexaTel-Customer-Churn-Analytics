@@ -27,5 +27,5 @@ An end-to-end data analytics workflow designed to identify key churn indicators,
 
 ## 🔗 Links
 * **Tableau Public Dashboard:** [[Insert Your Tableau Public Live Link Here]](https://public.tableau.com/views/NexaTelExecutiveChurnAnalyticsDashboard/ChurnbyContractType?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* * **Jupyter HTML Report:** [View Data Cleaning Report](https://ayushmahar38.github.io/NexaTel-Customer-Churn-Analytics/Phase1_DataCleaning_AyushMahar.html)
+* * **Jupyter HTML Report:** [https://ayushmahar38.github.io/NexaTel-Customer-Churn-Analytics/Phase1_DataCleaning_AyushMahar.html]
 * **Tableau Public Dashboard:** [[Insert Your Tableau Public Live Link Here]](https://public.tableau.com/views/NexaTelExecutiveChurnAnalyticsDashboard/ChurnbyContractType?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
